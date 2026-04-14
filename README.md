@@ -31,19 +31,21 @@
               Total Ratings: 18
               Content Span: 1925–2021
    
-🎭 Genre Analysis: Most popular genres like Drama, International, and Comedy identified
+ 🎭 Genre Analysis: Most popular genres like Drama, International, and Comedy identified
 
-🎬 Content Type Distribution: Comparison between Movies and TV Shows
+ 🎬 Content Type Distribution: Comparison between Movies and TV Shows
 
-🔞 Ratings Breakdown: Majority content falls under TV-MA and TV-14 categories
+ 🔞 Ratings Breakdown: Majority content falls under TV-MA and TV-14 categories
 
-🌎 Country-wise Insights: Top contributing countries like the United States, India, and the UK
+ 🌎 Country-wise Insights: Top contributing countries like the United States, India, and the UK
 
-📅 Trend Analysis: Significant growth in content production after the year 2000
+ 📅 Trend Analysis: Significant growth in content production after the year 2000
 
-🎛️ Interactive Filters: Users can filter data by release year for deeper insights
+ 🎛️ Interactive Filters: Users can filter data by release year for deeper insights
 
 7. Screenshot:-
+   
+     https://github.com/omkardaphale/Netflix-dashboard-using-Power-BI/blob/main/Netflix%20Dashboard.png
     
    
 
